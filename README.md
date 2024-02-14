@@ -1,7 +1,5 @@
 # README
 
-**Live on https://mysite-zccj.onrender.com/
-
 **TODO
 - adding :confirmable to user model and fix resend smtp service (timing out)
 
